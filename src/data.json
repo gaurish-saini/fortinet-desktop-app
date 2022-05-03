@@ -1,0 +1,1740 @@
+{
+    "cui": [
+        "American",
+        "Arabian",
+        "Asian",
+        "BBQ",
+        "Bakery",
+        "Bar Food",
+        "Beverages",
+        "Brazilian",
+        "Burger",
+        "Cafe",
+        "Chinese",
+        "Coffee and Tea",
+        "Desserts",
+        "European",
+        "Fast Food",
+        "Filipino",
+        "French",
+        "Gourmet Fast Food",
+        "Grill",
+        "Healthy Food",
+        "Ice Cream",
+        "Indian",
+        "International",
+        "Italian",
+        "Japanese",
+        "Juices",
+        "Korean",
+        "Latin American",
+        "Lebanese",
+        "Mediterranean",
+        "Mexican",
+        "Mineira",
+        "North Eastern",
+        "Peruvian",
+        "Pizza",
+        "Sandwich",
+        "Seafood",
+        "Steak",
+        "Sushi",
+        "Tapas",
+        "Vegetarian"
+    ],
+    "res": [
+        {
+            "Address": "Third Floor, Century City Mall, Kalayaan Avenue, Poblacion, Makati City",
+            "Aggregate rating": 4.8,
+            "Average Cost for two": 1100,
+            "Cuisines": [
+                "French",
+                "Japanese",
+                "Desserts"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6317637,
+            "Restaurant Name": "Le Petit Souffle",
+            "Votes": 314
+        },
+        {
+            "Address": "Little Tokyo, 2277 Chino Roces Avenue, Legaspi Village, Makati City",
+            "Aggregate rating": 4.5,
+            "Average Cost for two": 1200,
+            "Cuisines": [
+                "Japanese"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6304287,
+            "Restaurant Name": "Izakaya Kikufuji",
+            "Votes": 591
+        },
+        {
+            "Address": "Edsa Shangri-La, 1 Garden Way, Ortigas, Mandaluyong City",
+            "Aggregate rating": 4.4,
+            "Average Cost for two": 4000,
+            "Cuisines": [
+                "Seafood",
+                "Asian",
+                "Filipino",
+                "Indian"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6300002,
+            "Restaurant Name": "Heat - Edsa Shangri-La",
+            "Votes": 270
+        },
+        {
+            "Address": "Third Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City",
+            "Aggregate rating": 4.9,
+            "Average Cost for two": 1500,
+            "Cuisines": [
+                "Japanese",
+                "Sushi"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6318506,
+            "Restaurant Name": "Ooma",
+            "Votes": 365
+        },
+        {
+            "Address": "Third Floor, Mega Atrium, SM Megamall, Ortigas, Mandaluyong City",
+            "Aggregate rating": 4.8,
+            "Average Cost for two": 1500,
+            "Cuisines": [
+                "Japanese",
+                "Korean"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6314302,
+            "Restaurant Name": "Sambo Kojin",
+            "Votes": 229
+        },
+        {
+            "Address": "Ground Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City",
+            "Aggregate rating": 4.4,
+            "Average Cost for two": 1000,
+            "Cuisines": [
+                "Chinese"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 18189371,
+            "Restaurant Name": "Din Tai Fung",
+            "Votes": 336
+        },
+        {
+            "Address": "Building K, SM By The Bay, Sunset Boulevard, Mall of Asia Complex (MOA), Pasay City",
+            "Aggregate rating": 4.0,
+            "Average Cost for two": 2000,
+            "Cuisines": [
+                "Asian",
+                "European"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6300781,
+            "Restaurant Name": "Buffet 101",
+            "Votes": 520
+        },
+        {
+            "Address": "Building B, By The Bay, Seaside Boulevard, Mall of Asia Complex (MOA), Pasay City",
+            "Aggregate rating": 4.2,
+            "Average Cost for two": 2000,
+            "Cuisines": [
+                "Seafood",
+                "Filipino",
+                "Asian",
+                "European"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6301290,
+            "Restaurant Name": "Vikings",
+            "Votes": 677
+        },
+        {
+            "Address": "Plaza Level, Sofitel Philippine Plaza Manila, CCP Complex, Pasay City",
+            "Aggregate rating": 4.9,
+            "Average Cost for two": 6000,
+            "Cuisines": [
+                "European",
+                "Asian",
+                "Indian"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6300010,
+            "Restaurant Name": "Spiral - Sofitel Philippine Plaza Manila",
+            "Votes": 621
+        },
+        {
+            "Address": "Brixton Technology Center, 10 Brixton Street, Kapitolyo, Pasig City",
+            "Aggregate rating": 4.8,
+            "Average Cost for two": 1100,
+            "Cuisines": [
+                "Filipino"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6314987,
+            "Restaurant Name": "Locavore",
+            "Votes": 532
+        },
+        {
+            "Address": "75 East Capitol Drive, Kapitolyo, Pasig City",
+            "Aggregate rating": 4.9,
+            "Average Cost for two": 800,
+            "Cuisines": [
+                "Filipino",
+                "Mexican"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6309903,
+            "Restaurant Name": "Silantro Fil-Mex",
+            "Votes": 1070
+        },
+        {
+            "Address": "23 East Capitol Drive, Kapitolyo, Pasig City",
+            "Aggregate rating": 4.2,
+            "Average Cost for two": 900,
+            "Cuisines": [
+                "American",
+                "Ice Cream",
+                "Desserts"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6309455,
+            "Restaurant Name": "Mad Mark's Creamery & Good Eats",
+            "Votes": 488
+        },
+        {
+            "Address": "Second Floor, UP Town Center, Katipunan Avenue, Diliman, Quezon City",
+            "Aggregate rating": 4.8,
+            "Average Cost for two": 800,
+            "Cuisines": [
+                "Filipino",
+                "Mexican"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6318433,
+            "Restaurant Name": "Silantro Fil-Mex",
+            "Votes": 294
+        },
+        {
+            "Address": "387 P. Guevarra Corner Argonne Street, Addition Hills, San Juan City",
+            "Aggregate rating": 4.2,
+            "Average Cost for two": 1000,
+            "Cuisines": [
+                "Filipino"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6310470,
+            "Restaurant Name": "Guevarra's",
+            "Votes": 458
+        },
+        {
+            "Address": "17 J. Abad Santos Drive, Little Baguio, San Juan City",
+            "Aggregate rating": 4.3,
+            "Average Cost for two": 700,
+            "Cuisines": [
+                "Korean"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6314605,
+            "Restaurant Name": "Sodam Korean Restaurant",
+            "Votes": 223
+        },
+        {
+            "Address": "Ayala Mall, Solenad, Nuvali, Santa Rosa - Tagaytay Road, Don Jose, Santa Rosa",
+            "Aggregate rating": 3.6,
+            "Average Cost for two": 800,
+            "Cuisines": [
+                "Cafe",
+                "American",
+                "Italian",
+                "Filipino"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 18185059,
+            "Restaurant Name": "Cafe Arabelle",
+            "Votes": 29
+        },
+        {
+            "Address": "Ground Floor, Building G, Solenad 3, Nuvali, Don Jose, Santa Rosa",
+            "Aggregate rating": 4.0,
+            "Average Cost for two": 850,
+            "Cuisines": [
+                "Italian",
+                "Pizza"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 18182702,
+            "Restaurant Name": "Nonna's Pasta & Pizzeria",
+            "Votes": 72
+        },
+        {
+            "Address": "Aguinaldo Highway, Tagaytay City",
+            "Aggregate rating": 4.5,
+            "Average Cost for two": 1200,
+            "Cuisines": [
+                "Filipino"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6318213,
+            "Restaurant Name": "Balay Dako",
+            "Votes": 211
+        },
+        {
+            "Address": "Third Floor, BGC Stopover Pavillion, Rizal Drive Corner 31st Street, Bonifacio Global City, Taguig City",
+            "Aggregate rating": 4.5,
+            "Average Cost for two": 600,
+            "Cuisines": [
+                "Cafe",
+                "Korean",
+                "Desserts"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 18255654,
+            "Restaurant Name": "Hobing Korean Dessert Cafe",
+            "Votes": 118
+        },
+        {
+            "Address": "Ground Floor, Netlima Building, 4th Avenue Corner 26th Street, Bonifacio Global City, Taguig City",
+            "Aggregate rating": 4.4,
+            "Average Cost for two": 1500,
+            "Cuisines": [
+                "Cafe",
+                "Bakery",
+                "American",
+                "Italian"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6308205,
+            "Restaurant Name": "Wildflour Cafe + Bakery",
+            "Votes": 392
+        },
+        {
+            "Address": "Sixth Floor, SM Aura Premier, C5 Road Corner 26th Street, Bonifacio Global City, Taguig City",
+            "Aggregate rating": 4.7,
+            "Average Cost for two": 3000,
+            "Cuisines": [
+                "Seafood",
+                "American",
+                "Mediterranean",
+                "Japanese"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6315438,
+            "Restaurant Name": "NIU by Vikings",
+            "Votes": 535
+        },
+        {
+            "Address": "Fifth Floor, SM Aura Premier, C5 Corner 26th Street, Bonifacio Global City, Taguig City",
+            "Aggregate rating": 4.5,
+            "Average Cost for two": 1800,
+            "Cuisines": [
+                "American",
+                "Asian",
+                "Italian",
+                "Seafood"
+            ],
+            "Currency": "Botswana Pula(P)",
+            "Has Online delivery": "No",
+            "Has Table booking": "Yes",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6310406,
+            "Restaurant Name": "The Food Hall by Todd English",
+            "Votes": 618
+        },
+        {
+            "Address": "SCLN, 208, Bloco A, Loja 30, Asa Norte, Bras\ufffd_lia",
+            "Aggregate rating": 3.0,
+            "Average Cost for two": 55,
+            "Cuisines": [
+                "Fast Food",
+                "French"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 6600681,
+            "Restaurant Name": "Chez Michou",
+            "Votes": 6
+        },
+        {
+            "Address": "SCLN 104, Bloco A, Loja 26, Asa Norte, Bras\ufffd_lia",
+            "Aggregate rating": 3.8,
+            "Average Cost for two": 30,
+            "Cuisines": [
+                "Cafe"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6601005,
+            "Restaurant Name": "Caf\ufffd Daniel Briand",
+            "Votes": 9
+        },
+        {
+            "Address": "SCLN 210, Bloco D, Loja 36/48, Asa Norte, Bras\ufffd_lia",
+            "Aggregate rating": 3.7,
+            "Average Cost for two": 45,
+            "Cuisines": [
+                "Bakery"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6600292,
+            "Restaurant Name": "Casa do Biscoito Mineiro",
+            "Votes": 11
+        },
+        {
+            "Address": "CLN 110, Bloco D, Loja 28, Asa Norte, Bras\ufffd_lia",
+            "Aggregate rating": 3.8,
+            "Average Cost for two": 60,
+            "Cuisines": [
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6600441,
+            "Restaurant Name": "Maori",
+            "Votes": 11
+        },
+        {
+            "Address": "SCS 214, Bloco C, Loja 40, Asa Sul, Bras\ufffd_lia",
+            "Aggregate rating": 3.2,
+            "Average Cost for two": 50,
+            "Cuisines": [
+                "Pizza"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 6600970,
+            "Restaurant Name": "Pizza \ufffd\ufffd Bessa",
+            "Votes": 11
+        },
+        {
+            "Address": "SCS 213, Bloco C, Loja 35, Asa Sul, Bras\ufffd_lia",
+            "Aggregate rating": 3.1,
+            "Average Cost for two": 80,
+            "Cuisines": [
+                "Japanese"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 6600379,
+            "Restaurant Name": "Sushi Loko",
+            "Votes": 10
+        },
+        {
+            "Address": "CLS 109, Bloco A, Loja 2/6, Asa Sul, Bras\ufffd_lia",
+            "Aggregate rating": 3.7,
+            "Average Cost for two": 90,
+            "Cuisines": [
+                "Arabian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6600214,
+            "Restaurant Name": "Beirute",
+            "Votes": 8
+        },
+        {
+            "Address": "SCS 212, Bloco B, Loja 26, Asa Sul, Bras\ufffd_lia",
+            "Aggregate rating": 3.7,
+            "Average Cost for two": 200,
+            "Cuisines": [
+                "Japanese"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6601218,
+            "Restaurant Name": "New Koto",
+            "Votes": 5
+        },
+        {
+            "Address": "Edif\ufffd_cio Jos\ufffd Severo, SCS 6, Bloco A, Loja 99, Asa Sul, Bras\ufffd_lia",
+            "Aggregate rating": 0.0,
+            "Average Cost for two": 30,
+            "Cuisines": [
+                "Brazilian",
+                "Cafe"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "White",
+            "Rating text": "Not rated",
+            "Restaurant ID": 6600060,
+            "Restaurant Name": "Sandubas Caf\ufffd",
+            "Votes": 2
+        },
+        {
+            "Address": "CLS 115, Bloco A, Loja 2, Asa Sul, Bras\ufffd_lia",
+            "Aggregate rating": 4.1,
+            "Average Cost for two": 150,
+            "Cuisines": [
+                "Italian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6600083,
+            "Restaurant Name": "Villa Tevere",
+            "Votes": 12
+        },
+        {
+            "Address": "Rua 13 Norte, Lote 4, \ufffdguas Claras, Bras\ufffd_lia",
+            "Aggregate rating": 3.1,
+            "Average Cost for two": 100,
+            "Cuisines": [
+                "Pizza"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 6601515,
+            "Restaurant Name": "Rovereto",
+            "Votes": 9
+        },
+        {
+            "Address": "Avenida Arauc\ufffd\ufffdrias, 1325, Loja 19, \ufffdguas Claras, Bras\ufffd_lia",
+            "Aggregate rating": 3.6,
+            "Average Cost for two": 60,
+            "Cuisines": [
+                "Bar Food",
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6601361,
+            "Restaurant Name": "Buena Carne",
+            "Votes": 9
+        },
+        {
+            "Address": "Vila Malls, Avenida das Castanheiras, Lote 1060, \ufffdguas Claras, Bras\ufffd_lia",
+            "Aggregate rating": 4.3,
+            "Average Cost for two": 100,
+            "Cuisines": [
+                "Mexican",
+                "Grill"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6601602,
+            "Restaurant Name": "Taco Pep",
+            "Votes": 29
+        },
+        {
+            "Address": "Bras\ufffd_lia Shopping - Piso 2, SCN 5, Bloco A, Asa Norte, Bras\ufffd_lia",
+            "Aggregate rating": 4.2,
+            "Average Cost for two": 230,
+            "Cuisines": [
+                "International"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6601589,
+            "Restaurant Name": "Coco Bambu",
+            "Votes": 17
+        },
+        {
+            "Address": "Fashion Park, Shis Ql 17, Bloco G, Loja 208, Lago Sul, Bras\ufffd_lia",
+            "Aggregate rating": 3.6,
+            "Average Cost for two": 100,
+            "Cuisines": [
+                "Peruvian",
+                "Latin American"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6601862,
+            "Restaurant Name": "Tayp\ufffd\ufffd",
+            "Votes": 5
+        },
+        {
+            "Address": "ParkShopping - Piso 2, SAI/SO, \ufffdrea 6580, Guar\ufffd\ufffd I, Bras\ufffd_lia",
+            "Aggregate rating": 4.0,
+            "Average Cost for two": 150,
+            "Cuisines": [
+                "American",
+                "Grill"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6601595,
+            "Restaurant Name": "Outback Steakhouse",
+            "Votes": 10
+        },
+        {
+            "Address": "Pont\ufffdo Lago Sul, SHIS 10, Lote 9, Lago Sul, Bras\ufffd_lia",
+            "Aggregate rating": 3.2,
+            "Average Cost for two": 240,
+            "Cuisines": [
+                "Seafood"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 6601158,
+            "Restaurant Name": "Manzu\ufffd\ufffd",
+            "Votes": 6
+        },
+        {
+            "Address": "SCES, Trecho 2, Conjunto 13/36, Setor de Clubes Esportivos Sul, Bras\ufffd_lia",
+            "Aggregate rating": 4.9,
+            "Average Cost for two": 230,
+            "Cuisines": [
+                "International"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6600427,
+            "Restaurant Name": "Coco Bambu",
+            "Votes": 30
+        },
+        {
+            "Address": "Shopping Iguatemi - piso 1, SHIN CA 4, Lote A, Lago Norte, Bras\ufffd_lia",
+            "Aggregate rating": 3.3,
+            "Average Cost for two": 350,
+            "Cuisines": [
+                "Italian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 6600116,
+            "Restaurant Name": "Gero",
+            "Votes": 8
+        },
+        {
+            "Address": "CLSN 301, Bloco C, Loja 86, Sudoeste, Bras\ufffd_lia",
+            "Aggregate rating": 3.6,
+            "Average Cost for two": 50,
+            "Cuisines": [
+                "American",
+                "Burger"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6601457,
+            "Restaurant Name": "Brazilian American Burgers",
+            "Votes": 9
+        },
+        {
+            "Address": "Praia da Barra da Tijuca, Avenida L\ufffd_cio Costa, Ilha 25, Barra da Tijuca, Rio de Janeiro",
+            "Aggregate rating": 4.0,
+            "Average Cost for two": 140,
+            "Cuisines": [
+                "Seafood",
+                "Bar Food",
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 7303219,
+            "Restaurant Name": "Pesqueiro Eco Gourmet",
+            "Votes": 7
+        },
+        {
+            "Address": "Rua Gon\ufffd_alves Dias, 32, Centro, Rio de Janeiro",
+            "Aggregate rating": 4.8,
+            "Average Cost for two": 100,
+            "Cuisines": [
+                "Desserts",
+                "Cafe"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7304307,
+            "Restaurant Name": "Confeitaria Colombo",
+            "Votes": 29
+        },
+        {
+            "Address": "Rua Santa Clara, 36, Copabana, Rio de Janeiro",
+            "Aggregate rating": 4.7,
+            "Average Cost for two": 60,
+            "Cuisines": [
+                "Juices",
+                "Healthy Food"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7301215,
+            "Restaurant Name": "Bibi",
+            "Votes": 24
+        },
+        {
+            "Address": "Avenida Prado Junior, 335 B, Copacabana, Rio de Janeiro",
+            "Aggregate rating": 4.5,
+            "Average Cost for two": 90,
+            "Cuisines": [
+                "Beverages",
+                "Bar Food",
+                "Fast Food"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7300596,
+            "Restaurant Name": "Cervantes",
+            "Votes": 29
+        },
+        {
+            "Address": "Rua Ronald de Carvalho, 55, Copacabana, Rio de Janeiro",
+            "Aggregate rating": 4.2,
+            "Average Cost for two": 170,
+            "Cuisines": [
+                "Lebanese"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 7300612,
+            "Restaurant Name": "Amir",
+            "Votes": 11
+        },
+        {
+            "Address": "Galeria River, Rua Francisco Otaviano, 67, Copacabana, Rio de Janeiro",
+            "Aggregate rating": 4.8,
+            "Average Cost for two": 60,
+            "Cuisines": [
+                "Burger"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7300704,
+            "Restaurant Name": "TT Burger",
+            "Votes": 19
+        },
+        {
+            "Address": "Pra\ufffd_a Santos Dumont, 116, G\ufffd\ufffdvea, Rio de Janeiro",
+            "Aggregate rating": 4.9,
+            "Average Cost for two": 100,
+            "Cuisines": [
+                "Brazilian",
+                "Bar Food"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7300955,
+            "Restaurant Name": "Braseiro da G\ufffd\ufffdvea",
+            "Votes": 40
+        },
+        {
+            "Address": "Rua An\ufffd_bal de Mendon\ufffd_a, 37, Ipanema, Rio de Janeiro",
+            "Aggregate rating": 4.6,
+            "Average Cost for two": 90,
+            "Cuisines": [
+                "Brazilian",
+                "Healthy Food",
+                "Juices",
+                "Pizza"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7300521,
+            "Restaurant Name": "Balada Mix",
+            "Votes": 21
+        },
+        {
+            "Address": "Rua Vinicius de Moraes, 49, Ipanema, Rio de Janeiro",
+            "Aggregate rating": 4.9,
+            "Average Cost for two": 120,
+            "Cuisines": [
+                "Brazilian",
+                "Bar Food"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7300515,
+            "Restaurant Name": "Garota de Ipanema",
+            "Votes": 49
+        },
+        {
+            "Address": "Rua Joana Ang\ufffdlica, 40, Ipanema, Rio de Janeiro",
+            "Aggregate rating": 4.6,
+            "Average Cost for two": 170,
+            "Cuisines": [
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7300483,
+            "Restaurant Name": "Zaz\ufffd\ufffd Bistr\ufffd\ufffd Tropical",
+            "Votes": 21
+        },
+        {
+            "Address": "Rua Jardim Bot\ufffdnico, 731, Jardim Bot\ufffdnico, Lagoa, Rio de Janeiro",
+            "Aggregate rating": 4.3,
+            "Average Cost for two": 90,
+            "Cuisines": [
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 7301064,
+            "Restaurant Name": "Fil\ufffd de Ouro",
+            "Votes": 14
+        },
+        {
+            "Address": "Le Monde, Bloco 3, Lojas A/B, Avenida das Am\ufffdricas, 3500, Barra da Tijuca, Rio de Janeiro",
+            "Aggregate rating": 4.0,
+            "Average Cost for two": 150,
+            "Cuisines": [
+                "Italian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 7304312,
+            "Restaurant Name": "D.O.C Ristorante",
+            "Votes": 5
+        },
+        {
+            "Address": "Rua Dias Ferreira, 256, Leblon, Rio de Janeiro",
+            "Aggregate rating": 4.6,
+            "Average Cost for two": 250,
+            "Cuisines": [
+                "Japanese"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7300004,
+            "Restaurant Name": "Sushi Leblon",
+            "Votes": 25
+        },
+        {
+            "Address": "Avenida Ataulfo de Paiva, 1022, Lojas A e B, Leblon, Rio de Janeiro",
+            "Aggregate rating": 4.4,
+            "Average Cost for two": 120,
+            "Cuisines": [
+                "Bakery",
+                "Sandwich",
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 7300868,
+            "Restaurant Name": "Talho Capixaba",
+            "Votes": 13
+        },
+        {
+            "Address": "Rua Gustavo Sampaio, 798, Leme, Rio de Janeiro",
+            "Aggregate rating": 4.2,
+            "Average Cost for two": 40,
+            "Cuisines": [
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 7302637,
+            "Restaurant Name": "Leme Light",
+            "Votes": 7
+        },
+        {
+            "Address": "Rua Gustavo Sampaio, 610, Leme, Rio de Janeiro",
+            "Aggregate rating": 4.2,
+            "Average Cost for two": 250,
+            "Cuisines": [
+                "Brazilian",
+                "Seafood"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 7302140,
+            "Restaurant Name": "Shirley",
+            "Votes": 8
+        },
+        {
+            "Address": "Madureira Shopping - Loja 289/290, Piso 2, Estrada do Portela, 222, Madureira, Rio de Janeiro, RJ",
+            "Aggregate rating": 0.0,
+            "Average Cost for two": 70,
+            "Cuisines": [
+                "Bar Food",
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "White",
+            "Rating text": "Not rated",
+            "Restaurant ID": 7305048,
+            "Restaurant Name": "Quiosque Chopp Brahma",
+            "Votes": 1
+        },
+        {
+            "Address": "Rua Apraz\ufffd_vel, 62, Santa Teresa, Rio de Janeiro",
+            "Aggregate rating": 4.7,
+            "Average Cost for two": 300,
+            "Cuisines": [
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7302898,
+            "Restaurant Name": "Apraz\ufffd_vel",
+            "Votes": 44
+        },
+        {
+            "Address": "Rua Bar\ufffdo de Iguatemi, 379, Tijuca, Rio de Janeiro",
+            "Aggregate rating": 4.6,
+            "Average Cost for two": 85,
+            "Cuisines": [
+                "Brazilian",
+                "Bar Food"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 7302859,
+            "Restaurant Name": "Aconchego Carioca",
+            "Votes": 24
+        },
+        {
+            "Address": "Avenida Jo\ufffdo Alves, 56, Urca, Rio de Janeiro",
+            "Aggregate rating": 4.3,
+            "Average Cost for two": 80,
+            "Cuisines": [
+                "Brazilian",
+                "Bar Food"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 7301700,
+            "Restaurant Name": "Garota de Ipanema",
+            "Votes": 10
+        },
+        {
+            "Address": "Rua Avanhandava, 81, Bela Vista, S\ufffdo Paulo 10000",
+            "Aggregate rating": 4.5,
+            "Average Cost for two": 250,
+            "Cuisines": [
+                "Italian",
+                "Pizza"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6706313,
+            "Restaurant Name": "Cantina Famiglia Mancini",
+            "Votes": 49
+        },
+        {
+            "Address": "Rua Treze de Maio, 668, Bela Vista, S\ufffdo Paulo 01327000",
+            "Aggregate rating": 4.4,
+            "Average Cost for two": 250,
+            "Cuisines": [
+                "Steak",
+                "BBQ"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6704326,
+            "Restaurant Name": "Templo da Carne - Marcos Bassi",
+            "Votes": 17
+        },
+        {
+            "Address": "Rua Antonio Carlos, 429, Consola\ufffd_\ufffdo, S\ufffdo Paulo",
+            "Aggregate rating": 3.1,
+            "Average Cost for two": 70,
+            "Cuisines": [
+                "Indian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 6711179,
+            "Restaurant Name": "Gopala Hari",
+            "Votes": 5
+        },
+        {
+            "Address": "Rua Ant\ufffd\ufffdnio Carlos, 268, Consola\ufffd_\ufffdo, S\ufffdo Paulo",
+            "Aggregate rating": 4.1,
+            "Average Cost for two": 100,
+            "Cuisines": [
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6702797,
+            "Restaurant Name": "Jiquitaia",
+            "Votes": 15
+        },
+        {
+            "Address": "Hotel Unique, Avenida Brigadeiro Lu\ufffd_s Ant\ufffd\ufffdnio, 4700, Jardim Paulista, S\ufffdo Paulo",
+            "Aggregate rating": 4.8,
+            "Average Cost for two": 300,
+            "Cuisines": [
+                "Beverages",
+                "International"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6700475,
+            "Restaurant Name": "Skye - Hotel Unique",
+            "Votes": 59
+        },
+        {
+            "Address": "Rua Jesu\ufffd_no Arruda, 470, Itaim Bibi, S\ufffdo Paulo",
+            "Aggregate rating": 4.6,
+            "Average Cost for two": 120,
+            "Cuisines": [
+                "French",
+                "Brazilian",
+                "Beverages"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6713413,
+            "Restaurant Name": "Les 3 Brasseurs",
+            "Votes": 30
+        },
+        {
+            "Address": "Rua Tabapu\ufffd, 1417, Itaim Bibi, S\ufffdo Paulo",
+            "Aggregate rating": 3.9,
+            "Average Cost for two": 75,
+            "Cuisines": [
+                "Brazilian",
+                "Grill"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6714340,
+            "Restaurant Name": "Red Steak & Burger",
+            "Votes": 5
+        },
+        {
+            "Address": "Rua Pedroso Alvarenga, 522, Itaim Bibi, S\ufffdo Paulo, SP",
+            "Aggregate rating": 0.0,
+            "Average Cost for two": 55,
+            "Cuisines": [
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "White",
+            "Rating text": "Not rated",
+            "Restaurant ID": 6710645,
+            "Restaurant Name": "Cantinho da Gula",
+            "Votes": 0
+        },
+        {
+            "Address": "Rua Haddock Lobo, 1240, Cerqueira C\ufffdsar, Jardim Paulista, S\ufffdo Paulo",
+            "Aggregate rating": 3.4,
+            "Average Cost for two": 200,
+            "Cuisines": [
+                "French"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 6700402,
+            "Restaurant Name": "Paris 6 Classique",
+            "Votes": 73
+        },
+        {
+            "Address": "Alameda Lorena, 300, Jardim Paulista, S\ufffdo Paulo",
+            "Aggregate rating": 3.5,
+            "Average Cost for two": 120,
+            "Cuisines": [
+                "Sushi",
+                "Japanese"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6700846,
+            "Restaurant Name": "Kawa Sushi",
+            "Votes": 9
+        },
+        {
+            "Address": "Rua Haddock Lobo, 1738, Cerqueira C\ufffdsar, Jardim Paulista, S\ufffdo Paulo 10000",
+            "Aggregate rating": 4.3,
+            "Average Cost for two": 300,
+            "Cuisines": [
+                "BBQ",
+                "Grill",
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6702159,
+            "Restaurant Name": "A Figueira Rubaiyat",
+            "Votes": 39
+        },
+        {
+            "Address": "Rua Jacques F\ufffdlix, 405, Vila Nova Concei\ufffd_\ufffdo, Moema, S\ufffdo Paulo",
+            "Aggregate rating": 3.9,
+            "Average Cost for two": 230,
+            "Cuisines": [
+                "Sushi"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 6711666,
+            "Restaurant Name": "Kinoshita",
+            "Votes": 12
+        },
+        {
+            "Address": "Rua dos Pinheiros, 320, Pinheiros, S\ufffdo Paulo",
+            "Aggregate rating": 4.3,
+            "Average Cost for two": 120,
+            "Cuisines": [
+                "Gourmet Fast Food",
+                "Burger"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6701257,
+            "Restaurant Name": "Meats",
+            "Votes": 68
+        },
+        {
+            "Address": "Pra\ufffd_a Dom Jos\ufffd Gaspar, 42, Rep\ufffd_blica, S\ufffdo Paulo 10000",
+            "Aggregate rating": 4.3,
+            "Average Cost for two": 150,
+            "Cuisines": [
+                "Brazilian",
+                "Italian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6706211,
+            "Restaurant Name": "Paribar",
+            "Votes": 46
+        },
+        {
+            "Address": "Edif\ufffd_cio It\ufffd\ufffdlia - 41\ufffd\ufffd Andar, Avenida Ipiranga, 344, Rep\ufffd_blica, S\ufffdo Paulo",
+            "Aggregate rating": 4.4,
+            "Average Cost for two": 400,
+            "Cuisines": [
+                "Italian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6705858,
+            "Restaurant Name": "Terra\ufffd_o It\ufffd\ufffdlia",
+            "Votes": 37
+        },
+        {
+            "Address": "Shopping Metr\ufffd\ufffd Santa Cruz - Piso L2, Rua Domingos de Morais, 2564, Vila Mariana, S\ufffdo Paulo",
+            "Aggregate rating": 0.0,
+            "Average Cost for two": 65,
+            "Cuisines": [
+                "Brazilian",
+                "Mineira"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "White",
+            "Rating text": "Not rated",
+            "Restaurant ID": 6701419,
+            "Restaurant Name": "Divino Fog\ufffdo",
+            "Votes": 2
+        },
+        {
+            "Address": "Shopping Morumbi - Piso Lazer, Avenida Roque Petroni J\ufffd_nior, 1089, Santo Amaro, S\ufffdo Paulo",
+            "Aggregate rating": 0.0,
+            "Average Cost for two": 50,
+            "Cuisines": [
+                "Brazilian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "White",
+            "Rating text": "Not rated",
+            "Restaurant ID": 6703956,
+            "Restaurant Name": "Super Grill",
+            "Votes": 2
+        },
+        {
+            "Address": "Avenida Nossa Senhora do Loreto, 1104, Vila Medeiros, Vila Maria, S\ufffdo Paulo",
+            "Aggregate rating": 4.4,
+            "Average Cost for two": 100,
+            "Cuisines": [
+                "Brazilian",
+                "North Eastern"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6709580,
+            "Restaurant Name": "Esquina Mocot\ufffd_",
+            "Votes": 22
+        },
+        {
+            "Address": "Rua Concei\ufffd_\ufffdo Veloso, 56, Vila Mariana, S\ufffdo Paulo",
+            "Aggregate rating": 4.6,
+            "Average Cost for two": 70,
+            "Cuisines": [
+                "Brazilian",
+                "Bar Food",
+                "Beverages"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "DarkGreen",
+            "Rating text": "Excellent",
+            "Restaurant ID": 6703176,
+            "Restaurant Name": "Veloso",
+            "Votes": 58
+        },
+        {
+            "Address": "Rua Dom Jo\ufffdo Batista da Costa, 70, Vila S\ufffd\ufffdnia, S\ufffdo Paulo",
+            "Aggregate rating": 4.1,
+            "Average Cost for two": 120,
+            "Cuisines": [
+                "Lebanese",
+                "Arabian"
+            ],
+            "Currency": "Brazilian Real(R$)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Green",
+            "Rating text": "Very Good",
+            "Restaurant ID": 6713772,
+            "Restaurant Name": "Sainte Marie Gastronomia",
+            "Votes": 11
+        },
+        {
+            "Address": "2820 Meredyth Dr, Albany, GA 31707",
+            "Aggregate rating": 3.3,
+            "Average Cost for two": 25,
+            "Cuisines": [
+                "BBQ",
+                "Burger",
+                "Seafood"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 17284404,
+            "Restaurant Name": "Austin's BBQ and Oyster Bar",
+            "Votes": 35
+        },
+        {
+            "Address": "2401 Dawson Rd, Albany, GA 31707",
+            "Aggregate rating": 3.3,
+            "Average Cost for two": 10,
+            "Cuisines": [
+                "American",
+                "BBQ"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 17284203,
+            "Restaurant Name": "BJ's Country Buffet",
+            "Votes": 25
+        },
+        {
+            "Address": "115 N Jackson St, Albany, GA 31701",
+            "Aggregate rating": 3.4,
+            "Average Cost for two": 0,
+            "Cuisines": [
+                ""
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 17284105,
+            "Restaurant Name": "Cookie Shoppe",
+            "Votes": 34
+        },
+        {
+            "Address": "2700 Dawson Rd, Albany, GA 31707",
+            "Aggregate rating": 3.4,
+            "Average Cost for two": 0,
+            "Cuisines": [
+                "Mexican"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 17284302,
+            "Restaurant Name": "El Vaquero Mexican Restaurant",
+            "Votes": 45
+        },
+        {
+            "Address": "2726 Ledo Rd Ste 10, Albany, GA 31707",
+            "Aggregate rating": 3.4,
+            "Average Cost for two": 10,
+            "Cuisines": [
+                "Coffee and Tea",
+                "Sandwich"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 17284397,
+            "Restaurant Name": "Elements Coffee Co - Northwest",
+            "Votes": 26
+        },
+        {
+            "Address": "814 N Slappey Blvd, Albany, GA 31701",
+            "Aggregate rating": 3.4,
+            "Average Cost for two": 0,
+            "Cuisines": [
+                ""
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Orange",
+            "Rating text": "Average",
+            "Restaurant ID": 17284211,
+            "Restaurant Name": "Pearly's Famous Country Cookng",
+            "Votes": 36
+        },
+        {
+            "Address": "2703 Dawson Rd, Albany, GA 31707",
+            "Aggregate rating": 3.5,
+            "Average Cost for two": 10,
+            "Cuisines": [
+                "Fast Food"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284094,
+            "Restaurant Name": "Chick-fil-A",
+            "Votes": 67
+        },
+        {
+            "Address": "1214 N Westover Blvd, Albany, GA 31707",
+            "Aggregate rating": 3.9,
+            "Average Cost for two": 10,
+            "Cuisines": [
+                "Asian",
+                "Chinese",
+                "Vegetarian"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284409,
+            "Restaurant Name": "Guang Zhou Chinese Restaurant",
+            "Votes": 141
+        },
+        {
+            "Address": "2347 Dawson Road, Albany, GA 31707",
+            "Aggregate rating": 3.7,
+            "Average Cost for two": 25,
+            "Cuisines": [
+                "Pizza",
+                "Bar Food",
+                "Sandwich"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284139,
+            "Restaurant Name": "Harvest Moon",
+            "Votes": 147
+        },
+        {
+            "Address": "629 N. Westover Blvd, Albany, GA 31707",
+            "Aggregate rating": 3.5,
+            "Average Cost for two": 70,
+            "Cuisines": [
+                "Steak",
+                "Tapas",
+                "Bar Food"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284403,
+            "Restaurant Name": "Henry Campbell's Steakhouse",
+            "Votes": 51
+        },
+        {
+            "Address": "2700 Dawson Rd, Albany, GA 31707",
+            "Aggregate rating": 3.6,
+            "Average Cost for two": 25,
+            "Cuisines": [
+                "Chinese",
+                "Seafood",
+                "Vegetarian"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284145,
+            "Restaurant Name": "Hong Kong Cafe",
+            "Votes": 88
+        },
+        {
+            "Address": "2526 Dawson Rd Ste A, Albany, GA 31707",
+            "Aggregate rating": 3.8,
+            "Average Cost for two": 10,
+            "Cuisines": [
+                "Chinese"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284150,
+            "Restaurant Name": "House of China Restaurant II",
+            "Votes": 153
+        },
+        {
+            "Address": "204 S Jackson St, Albany, GA 31701",
+            "Aggregate rating": 3.9,
+            "Average Cost for two": 10,
+            "Cuisines": [
+                ""
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284158,
+            "Restaurant Name": "Jimmie's Hot Dogs",
+            "Votes": 160
+        },
+        {
+            "Address": "547 N Westover Blvd, Albany, GA 31707",
+            "Aggregate rating": 3.5,
+            "Average Cost for two": 25,
+            "Cuisines": [
+                "American",
+                "Burger",
+                "Sandwich"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284175,
+            "Restaurant Name": "Locos Grill & Pub",
+            "Votes": 57
+        },
+        {
+            "Address": "2733 Dawson Rd, Albany, GA 31707",
+            "Aggregate rating": 3.5,
+            "Average Cost for two": 25,
+            "Cuisines": [
+                "American",
+                "Steak"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284179,
+            "Restaurant Name": "Longhorn Steakhouse",
+            "Votes": 58
+        },
+        {
+            "Address": "2610 Dawson Rd, Albany, GA 31707",
+            "Aggregate rating": 3.6,
+            "Average Cost for two": 40,
+            "Cuisines": [
+                "Japanese",
+                "Steak",
+                "Sushi"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284197,
+            "Restaurant Name": "Mikata Japanese Steakhouse",
+            "Votes": 115
+        },
+        {
+            "Address": "629 N Westover Blvd, Albany, GA 31707",
+            "Aggregate rating": 3.5,
+            "Average Cost for two": 40,
+            "Cuisines": [
+                "Japanese",
+                "Steak",
+                "Sushi"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284241,
+            "Restaurant Name": "Shogun Japanese Steak House",
+            "Votes": 51
+        },
+        {
+            "Address": "2332 Whispering Pines Road, Albany, GA 31707",
+            "Aggregate rating": 3.8,
+            "Average Cost for two": 40,
+            "Cuisines": [
+                "Seafood",
+                "Tapas",
+                "Bar Food"
+            ],
+            "Currency": "Dollar($)",
+            "Has Online delivery": "No",
+            "Has Table booking": "No",
+            "Rating color": "Yellow",
+            "Rating text": "Good",
+            "Restaurant ID": 17284390,
+            "Restaurant Name": "The Catch Seafood Room & Oyster Bar",
+            "Votes": 250
+        }
+    ]
+}
