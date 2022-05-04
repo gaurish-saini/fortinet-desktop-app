@@ -312,7 +312,6 @@
   </div>
 </template>
 <script>
-var $ = require("jquery");
 export default {
   data() {
     return {
@@ -338,7 +337,7 @@ export default {
           address +
           "&zoom=14";
         this.restname = name;
-        $("#exampleModal").modal();
+        $("#exampleModal").modal("show");
       });
     },
     clear() {
